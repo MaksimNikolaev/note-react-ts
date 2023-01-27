@@ -1,4 +1,4 @@
-export const url ='https://note-react-js-1a0bb-default-rtdb.firebaseio.com'
+export const url ='https://note-react-ts-default-rtdb.firebaseio.com'
 
 export type Note = {
   [index: string]: string;
